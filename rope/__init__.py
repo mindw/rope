@@ -1,7 +1,7 @@
 """rope, a python refactoring library"""
 
 INFO = __doc__
-VERSION = '0.10.3'
+from ._version import version as VERSION
 COPYRIGHT = """\
 Copyright (C) 2014-2015 Matej Cepl
 Copyright (C) 2006-2012 Ali Gholami Rudi
