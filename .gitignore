@@ -8,3 +8,4 @@ dist/
 MANIFEST
 
 rope/_version.py
+.tox/
